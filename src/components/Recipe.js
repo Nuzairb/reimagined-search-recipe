@@ -37,7 +37,7 @@ export default class Recipe extends Component {
                 target="_blank"
                 rel= "noopener noreferrer"
               >
-                recipe url
+                This is recipe URL
               </a>
             </div>
           </div>
