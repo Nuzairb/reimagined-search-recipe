@@ -23,7 +23,7 @@ class App extends Component {
 	}
 
 	componentDidMount() {
-	  	this.getRecipes();
+	  this.getRecipes();
 	}
 	
 
